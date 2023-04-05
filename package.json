@@ -1,0 +1,8 @@
+{
+  "name": "cypress-template",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
